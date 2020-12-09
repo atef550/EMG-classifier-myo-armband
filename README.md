@@ -1,5 +1,5 @@
-# EMG-classifier-myo-armband-
-Keras ANN model for classifing EMG signal using MYO armband
+# EMG-classifier-myo-armband
+Keras ANN model for classifing EMG signal using MYO armband with 96% val accuracy. 
 
 It classifies 5 gestures for right hand : Closed grip , Pointing , Holding a pen , Carrying a bag , Rested
 
